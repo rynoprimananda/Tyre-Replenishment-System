@@ -1,3 +1,8 @@
+export default defineConfig({
+  base: '/Tyre-Replenishment-System/',  // Add this line
+  plugins: [react()],
+  // ... rest of your config
+})
 {
   "name": "my-app",
   "private": true,
